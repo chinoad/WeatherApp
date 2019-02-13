@@ -8,16 +8,14 @@ body {
 
 header {
     height: 100px;
-    background-color: lightblue;
     text-align: center;
-    padding-top: 20px;
-    box-shadow: 3px 3px 3px #ccc;
+    padding-top: 50px;
 }
 
 header h1 {
     font-size: 40px;
     font-weight: bold;
-    color: dodgerblue;
+    color: 	#CD5C5C;
     margin: 0;
 }
 
@@ -42,8 +40,8 @@ header h1 {
 #search button {
     font-family: inherit;
     font-size: inherit;
-    background-color: dodgerblue;
-    border: 1px solid dodgerblue;
+    background-color: #DC143C;
+    border: 1px solid #DC143C;
     border-radius: 3px;
     cursor: pointer;
     color: white;
